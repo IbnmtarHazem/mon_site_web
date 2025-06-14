@@ -13,6 +13,7 @@
 #top-banner-img {
   color: green;
   background-color: black;
+
 }
 
 #menu {
@@ -76,4 +77,8 @@
 #content {
   margin-left: 300px;
   margin-top: 40px;
+}
+#content{
+
+  color: green;
 }
