@@ -86,3 +86,7 @@
   font-family: 'Courier New', Courier, monospace;
   background-color: red;
 }
+#content h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+} 
